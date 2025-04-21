@@ -10,7 +10,7 @@ Currently, this project includes the following MCP implementations:
 ## 🚀 Features
 - Example implementation of an MCP for internet searching.
 - Example implementation of an MCP for simple addition tasks.
-- [Add more features as you develop them]
+- [I will add more feature after developing them]
 
 ## 📋 Prerequisites
 - Python 3.x (or specify other language/tools if needed)

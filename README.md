@@ -15,7 +15,18 @@ Currently, this project includes the following MCP implementations:
 ## 📋 Prerequisites
 - Python 3.x (or specify other language/tools if needed)
 - Git
-- [Add any other specific dependencies for your MCP implementations]
+- Basic Python programming knowledge:
+  - Understanding of functions and classes
+  - Familiarity with Python package management
+  - Basic knowledge of async/await concepts
+- Basic AI/ML knowledge:
+  - Understanding of LLMs and their capabilities
+  - Familiarity with prompt engineering concepts
+  - Basic knowledge of context windows and tokens
+- Basic development tools:
+  - Code editor (VS Code recommended)
+  - Terminal/Command line interface
+  - Package manager (pip/uv)
 
 ## 🛠️ Installation
 1. Clone the repository:
